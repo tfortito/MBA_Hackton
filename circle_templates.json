@@ -1,0 +1,156 @@
+{
+  "career_transition": {
+    "category": "career_transition",
+    "circle_format": "Peer transition circle with alumni mentors and peers exploring similar moves",
+    "recommended_duration": "45 minutes",
+    "agenda": [
+      "5 min: participant context and target transition",
+      "10 min: alumni transition stories and lessons learned",
+      "10 min: skills, credibility gaps, and positioning",
+      "10 min: target roles, firms, and entry routes",
+      "5 min: each participant commits to one next step",
+      "5 min: follow-up contacts and resources"
+    ],
+    "output": "Each participant leaves with a sharper transition story, 2-3 next actions, and relevant follow-up contacts."
+  },
+  "entrepreneurship": {
+    "category": "entrepreneurship",
+    "circle_format": "Founder problem-solving circle with operators, founders, and functional experts",
+    "recommended_duration": "45 minutes",
+    "agenda": [
+      "5 min: founder context and current decision",
+      "10 min: comparable founder stories",
+      "10 min: customer, product, and operating risks",
+      "10 min: go-to-market and hiring constraints",
+      "5 min: advice round from each participant",
+      "5 min: next experiments and warm follow-ups"
+    ],
+    "output": "A focused list of assumptions to test, people to contact, and operating decisions to clarify."
+  },
+  "fundraising": {
+    "category": "fundraising",
+    "circle_format": "Fundraising readiness circle with investors and founders",
+    "recommended_duration": "45 minutes",
+    "agenda": [
+      "5 min: company stage and fundraising goal",
+      "10 min: investor lens on readiness",
+      "10 min: story, metrics, and proof points",
+      "10 min: target investor map and warm-intro strategy",
+      "5 min: pitch risks and objections",
+      "5 min: next outreach actions"
+    ],
+    "output": "A sharper funding narrative, investor target list, and first outreach sequence."
+  },
+  "leadership": {
+    "category": "leadership",
+    "circle_format": "Leadership challenge circle with experienced executives and peers",
+    "recommended_duration": "45 minutes",
+    "agenda": [
+      "5 min: leadership context and stakes",
+      "10 min: comparable leadership situations",
+      "10 min: team, stakeholder, and communication dynamics",
+      "10 min: decision options and risks",
+      "5 min: peer advice round",
+      "5 min: personal action commitment"
+    ],
+    "output": "A practical leadership playbook for the next 2-4 weeks."
+  },
+  "industry_switch": {
+    "category": "industry_switch",
+    "circle_format": "Industry-switch circle with insiders and recent switchers",
+    "recommended_duration": "45 minutes",
+    "agenda": [
+      "5 min: target industry and motivation",
+      "10 min: insider view of market realities",
+      "10 min: transferable skills and credibility gaps",
+      "10 min: target companies, roles, and entry routes",
+      "5 min: positioning feedback",
+      "5 min: next learning and networking steps"
+    ],
+    "output": "A clearer industry entry strategy and credible positioning narrative."
+  },
+  "geographic_move": {
+    "category": "geographic_move",
+    "circle_format": "Market-entry circle with alumni in the target region",
+    "recommended_duration": "45 minutes",
+    "agenda": [
+      "5 min: relocation or market-entry context",
+      "10 min: local market norms and constraints",
+      "10 min: network map and target organizations",
+      "10 min: role, visa, compensation, and cultural considerations",
+      "5 min: risk check",
+      "5 min: first local introductions"
+    ],
+    "output": "A region-specific action plan and first trusted contacts."
+  },
+  "functional_expertise": {
+    "category": "functional_expertise",
+    "circle_format": "Functional expertise clinic with practitioners",
+    "recommended_duration": "45 minutes",
+    "agenda": [
+      "5 min: functional problem statement",
+      "10 min: expert diagnosis",
+      "10 min: common mistakes and benchmarks",
+      "10 min: tools, operating models, and examples",
+      "5 min: recommended resources",
+      "5 min: next implementation steps"
+    ],
+    "output": "A practical functional checklist and resource list."
+  },
+  "board_or_advisory": {
+    "category": "board_or_advisory",
+    "circle_format": "Board-readiness circle with governance and investor voices",
+    "recommended_duration": "45 minutes",
+    "agenda": [
+      "5 min: advisory goal and current profile",
+      "10 min: board role expectations",
+      "10 min: credibility, governance, and positioning gaps",
+      "10 min: target boards and access routes",
+      "5 min: profile feedback",
+      "5 min: next introductions and proof points"
+    ],
+    "output": "A board-readiness plan and target advisory paths."
+  },
+  "hiring": {
+    "category": "hiring",
+    "circle_format": "Hiring and team-design circle with operators and talent experts",
+    "recommended_duration": "45 minutes",
+    "agenda": [
+      "5 min: hiring context and role scope",
+      "10 min: examples from similar hiring situations",
+      "10 min: role design and candidate profile",
+      "10 min: sourcing, assessment, and closing approach",
+      "5 min: risks and trade-offs",
+      "5 min: next sourcing actions"
+    ],
+    "output": "A sharper role profile, sourcing plan, and assessment checklist."
+  },
+  "peer_benchmarking": {
+    "category": "peer_benchmarking",
+    "circle_format": "Peer benchmarking circle with alumni facing comparable decisions",
+    "recommended_duration": "45 minutes",
+    "agenda": [
+      "5 min: benchmark question and context",
+      "10 min: participant snapshots",
+      "10 min: comparison of approaches and constraints",
+      "10 min: practices worth copying or avoiding",
+      "5 min: unresolved questions",
+      "5 min: follow-up resource exchange"
+    ],
+    "output": "A practical benchmark of peer approaches and next questions to investigate."
+  },
+  "general_advice": {
+    "category": "general_advice",
+    "circle_format": "General advisory circle with relevant alumni mentors and peers",
+    "recommended_duration": "45 minutes",
+    "agenda": [
+      "5 min: challenge framing",
+      "10 min: clarifying questions",
+      "10 min: relevant alumni experiences",
+      "10 min: options and trade-offs",
+      "5 min: advice round",
+      "5 min: next steps and follow-ups"
+    ],
+    "output": "A clearer problem frame, practical options, and recommended follow-ups."
+  }
+}
